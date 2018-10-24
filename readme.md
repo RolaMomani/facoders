@@ -1,9 +1,10 @@
-## udemy-git course
-### first Assignment
+## femal arab coders
+## مبادرة نساء مبرمجات
 
-##week1 git and githup
+* __week1__
+introduction to git and github
+* __week2__
+creatin markdown file
 
-##week2 make markdown file
 
-*  Name : rola Momani
-*  Note : Good Luck
+### Name Rola Almomani
